@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ssoidportal.github.io/ssoidportal/sitemap.xml
