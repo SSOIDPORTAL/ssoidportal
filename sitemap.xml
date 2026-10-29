@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://ssoidportal.github.io/ssoidportal/</loc>
-  </url>
+  <url><loc>https://ssoidportal.github.io/ssoidportal/</loc></url>
+  <url><loc>https://ssoidportal.github.io/ssoidportal/sso-login-problems.html</loc></url>
+  <url><loc>https://ssoidportal.github.io/ssoidportal/sso-security-guide.html</loc></url>
+  <url><loc>https://ssoidportal.github.io/ssoidportal/rajasthan-otr-guide.html</loc></url>
+  <url><loc>https://ssoidportal.github.io/ssoidportal/about.html</loc></url>
+  <url><loc>https://ssoidportal.github.io/ssoidportal/privacy.html</loc></url>
+  <url><loc>https://ssoidportal.github.io/ssoidportal/terms.html</loc></url>
 </urlset>
